@@ -1,2 +1,0 @@
-# FPGA_Modbus_RTU-MasterAndSlave-
-这个项目简略实现了一个Modbus协议的主机发送和从机接收
